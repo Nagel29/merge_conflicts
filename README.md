@@ -1,1 +1,1 @@
-this should be a merge conflict.
+this should be a merge conflict.git 

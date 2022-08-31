@@ -1,1 +1,1 @@
-# merge_conflicts
+This is a new sentence.

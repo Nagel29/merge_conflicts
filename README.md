@@ -1,1 +1,2 @@
-this should be a merge conflict.git 
+This is a new sentence.
+>>>>>>> main
